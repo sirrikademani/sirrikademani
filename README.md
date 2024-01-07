@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mySQLserver, googlecloudplatform, snowflake, aLteryx, tableau, powerbi, qliksense" />
-    <img src="https://skillicons.dev/icons?i=sql,python, unix, bash, html" /><br>
+    <img src="https://skillicons.dev/icons?i=mySQLserver,github,googlecloudplatform,snowflake,alteryx,tableau,powerbi,qliksense" />
+    <img src="https://skillicons.dev/icons?i=sql,python,unix,bash,html" /><br>
 </div>
 
 <br/>
