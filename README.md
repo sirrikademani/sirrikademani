@@ -47,7 +47,7 @@
 
 <div align="center">
   <img src="./images/datascience.png" alt="Data Science Logo" width="30" height="30" />
-  <img src="./images/dataanalysis.png" alt="Data Analysis Logo" width="30" height="30" />
+  <img src="./images/dataanalysis.png" alt="Data Analysis Logo" width="70" height="70" />
 </div>
 
 ### Python Projects
