@@ -48,7 +48,7 @@
   <br/>
   <img src="./images/matplot.png" alt="Matplotlib Logo" width="70" height="70" />
   <img src="./images/gcp.png" alt="GCP Logo" width="90" height="70" />
-  <img src="./images/tableau.png" alt="Tableau" width="70" height="70" />
+  <img src="./images/tableau.png" alt="Tableau" width="90" height="70" />
   <img src="./images/snowflake.png" alt="snowflake Logo" width="70" height="70" />
   <img src="./images/alteryx.png" alt="Alteryx Logo" width="90" height="70" />
   <img src="./images/python.png" alt="Python" width="70" height="70" />
