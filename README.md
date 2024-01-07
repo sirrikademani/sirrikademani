@@ -41,20 +41,16 @@
  
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
-<div align="center">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,github,gcp,sklearn,visualstudio,wordpress,numpy,pandas" />
-    <img src="https://skillicons.dev/icons?i=py,linux,html" /><br>
- </a>
+
 </div>
 <div align="center">
   <h2>⚙️ Technologies & Tools ⚙️</h2>
   <br/>
   <img src="./images/matplot.png" alt="Matplotlib Logo" width="70" height="70" />
-  <img src="./images/gcp.png" alt="GCP Logo" width="70" height="70" />
+  <img src="./images/gcp.png" alt="GCP Logo" width="90" height="70" />
   <img src="./images/tableau.png" alt="Tableau" width="70" height="70" />
   <img src="./images/snowflake.png" alt="snowflake Logo" width="70" height="70" />
-  <img src="./images/alteryx.png" alt="Alteryx Logo" width="70" height="70" />
+  <img src="./images/alteryx.png" alt="Alteryx Logo" width="90" height="70" />
   <img src="./images/python.png" alt="Python" width="70" height="70" />
   <img src="./images/sqlserver.png" alt="Microsoft SQL Logo" width="70" height="70" />
   <img src="./images/mysql.png" alt="My SQL Logo" width="70" height="70" />
