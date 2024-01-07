@@ -46,9 +46,8 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python Logo" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/data-science/data-science.png" alt="Data Science Logo" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visualization/visualization.png" alt="Visualization Logo" width="30" height="30" />
+  <img src="./images/datascience.png" alt="Data Science Logo" width="30" height="30" />
+  <img src="./images/dataanalysis.png" alt="Data Analysis Logo" width="30" height="30" />
 </div>
 
 ### Python Projects
