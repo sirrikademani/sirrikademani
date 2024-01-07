@@ -43,6 +43,7 @@
 
 <div align="center">
   <h2>🚀 Project Portfolio 🚀</h2>
+  <h2 style="color: #2ecc71;">🚀 Project Portfolio 🚀</h2>
 </div>
 
 
