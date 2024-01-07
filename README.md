@@ -50,14 +50,14 @@
 <div align="center">
   <h2>⚙️ Technologies & Tools ⚙️</h2>
   <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-2580C3?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alteryx-006666?style=for-the-badge&logo=alteryx&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" alt="NumPy Logo" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" alt="Pandas Logo" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tableau/tableau.png" alt="Tableau Logo" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/snowflake/snowflake.png" alt="Snowflake Logo" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/alteryx/alteryx.png" alt="Alteryx Logo" width="50" height="50" />
   <br/>
 </div>
+
 
 <br/>
 <hr/>
