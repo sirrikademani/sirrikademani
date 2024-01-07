@@ -49,19 +49,24 @@
 <div align="center">
   <h2>⚙️ Technologies & Tools ⚙️</h2>
   <br/>
-  <img src="./images/matplot.png" alt="Matplotlib Logo" width="70" height="70" />
-  <img src="./images/gcp.png" alt="GCP Logo" width="90" height="70" />
+  
   <img src="./images/tableau.png" alt="Tableau" width="90" height="70" />
   <img src="./images/snowflake.png" alt="snowflake Logo" width="70" height="70" />
   <img src="./images/alteryx.png" alt="Alteryx Logo" width="90" height="50" />
   <img src="./images/python.png" alt="Python" width="70" height="70" />
   <img src="./images/sqlserver.png" alt="Microsoft SQL Logo" width="70" height="70" />
   <img src="./images/mysql.png" alt="My SQL Logo" width="90" height="70" />
+  <img src="./images/powerbi.png" alt="Power BI Logo" width="70" height="70" />
+  <img src="./images/qliksense.png" alt="Qlik Sense Logo" width="90" height="70" />
   <img src="./images/pandas.png" alt="Pandas Logo" width="70" height="70" />
   <img src="./images/excel.png" alt="MS Excel Logo" width="70" height="70" />
   <img src="./images/jupyter.png" alt="Jupyter logo" width="70" height="70" />
   <img src="./images/sklearn.png" alt="SKlearn Logo" width="70" height="50" />
   <img src="./images/numpy.png" alt="Numpy Logo" width="50" height="40" />
+  <img src="./images/matplot.png" alt="Matplotlib Logo" width="70" height="70" />
+  <img src="./images/gcp.png" alt="GCP Logo" width="90" height="70" />
+  <img src="./images/jira.png" alt="Jira Logo" width="70" height="70" />
+  <img src="./images/alation.png" alt="Alation Logo" width="90" height="70" />
   <br/>
 </div>
 
