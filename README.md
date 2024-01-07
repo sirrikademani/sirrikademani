@@ -42,7 +42,7 @@
 <div align="center">
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,github,gcp,sklearn,visualstudio,wordpress" />
-    <img src="https://skillicons.dev/icons?i=sql,py,linux,html" /><br>
+    <img src="https://skillicons.dev/icons?i=py,linux,html" /><br>
  </a>
 </div>
 
