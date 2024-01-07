@@ -67,7 +67,7 @@
 
 <hr/>
 
-<div align="center" style="background-color: #f2f2f2; padding: 20px;">
+<div align="center">
     <h2 style="background-color: #f2f2f2;">🚀 Project Portfolio 🚀</h2>
 </div>
 
