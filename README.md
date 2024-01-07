@@ -14,7 +14,7 @@
  
  🔭 I’m currently looking for opportunities in **Data Science, Data Analysis and Business Intelligence roles.**
  
- 🌱 I’m proficient in **SQL, Python , Alteryx, Snowflake, Alation, JIRA, Microsoft Office, Tableau, Qlik Sense, and Power BI.**
+ 🌱 I’m proficient in **SQL, Python, Alteryx, Snowflake, Alation, JIRA, Microsoft Office, Tableau, Qlik Sense, and Power BI.**
 
 💬 I'm certified in **Tableau Desktop and Snowflake (SnowPro Core)**
 
