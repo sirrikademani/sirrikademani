@@ -41,26 +41,6 @@
  
 </div>
 
-<div align="center">
-    <h2 style="background-color: #f2f2f2;">🚀 Project Portfolio 🚀</h2>
-</div>
-
-
-### Python Projects <img src="./images/datascience.png" alt="Data Science Logo" width="40" height="40" />
-| Project | Description |
-| --- | --- | 
-| [Marketing Data Analysis for Caravana](https://github.com/YourUsername/Marketing-Data-Analysis-for-Caravana) | Jupyter Notebook | 
-| [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/YourUsername/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) | Jupyter Notebook, Power BI | 
-| [Axons Customer Review Category Prediction](https://github.com/YourUsername/Axons-Customer-Review-Category-prediction) | Jupyter Notebook | 
-| [Data Mining Projects](https://github.com/YourUsername/DataMiningProjects) | Jupyter Notebook | 
-| [Parking Lot Space Picker Using Computer Vision](https://github.com/YourUsername/ParkingLot-Space-Picker-Using-ComputerVision) | Jupyter Notebook | 
-
-### Data Analysis and Visualization Projects <img src="./images/dataanalysis.png" alt="Data Analysis Logo" width="40" height="40" />
-| Project | Description |
-| --- | --- | 
-| [Tableau Dashboards](https://github.com/YourUsername/Tableau-Dashboards) | Config files for GitHub profile | 
-| [Topic Modeling Using NLP](https://github.com/YourUsername/Topic-Modeling-Using-NLP) | Jupyter Notebook | 
-</div>
 
 <div align="center">
   <h2>⚙️ Technologies & Tools ⚙️</h2>
@@ -84,6 +64,28 @@
 <br/>
 
 <hr/>
+
+<div align="center">
+    <h2 style="background-color: #f2f2f2;">🚀 Project Portfolio 🚀</h2>
+</div>
+
+
+### Python Projects <img src="./images/datascience.png" alt="Data Science Logo" width="40" height="40" />
+| Project | Description |
+| --- | --- | 
+| [Marketing Data Analysis for Caravana](https://github.com/YourUsername/Marketing-Data-Analysis-for-Caravana) | Jupyter Notebook | 
+| [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/YourUsername/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) | Jupyter Notebook, Power BI | 
+| [Axons Customer Review Category Prediction](https://github.com/YourUsername/Axons-Customer-Review-Category-prediction) | Jupyter Notebook | 
+| [Data Mining Projects](https://github.com/YourUsername/DataMiningProjects) | Jupyter Notebook | 
+| [Parking Lot Space Picker Using Computer Vision](https://github.com/YourUsername/ParkingLot-Space-Picker-Using-ComputerVision) | Jupyter Notebook | 
+
+### Data Analysis and Visualization Projects <img src="./images/dataanalysis1.png" alt="Data Analysis Logo" width="40" height="40" />
+| Project | Description |
+| --- | --- | 
+| [Tableau Dashboards](https://github.com/YourUsername/Tableau-Dashboards) | Config files for GitHub profile | 
+| [Topic Modeling Using NLP](https://github.com/YourUsername/Topic-Modeling-Using-NLP) | Jupyter Notebook | 
+</div>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
