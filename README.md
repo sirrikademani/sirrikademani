@@ -31,7 +31,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="https://public.tableau.com/app/profile/siri1111/vizzes" target="_blank">
-     <img src="https://img.shields.io/badge/Tableau-FF5722?style=for-the-badge&logo=todoist&logoColor=Green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Tableau-ECD53F?style=for-the-badge&logo=todoist&logoColor=Green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=My SQL Server, Google cloud platform, Snowflake, ALteryx, Tableau, Power BI, Qlik Senser" />
+    <img src="https://skillicons.dev/icons?i=MySQL Server, Googlecloudplatform, Snowflake, ALteryx, Tableau, PowerBI, QlikSense" />
     <img src="https://skillicons.dev/icons?i=SQL,python, Unix, Bash, HTML" /><br>
 </div>
 
