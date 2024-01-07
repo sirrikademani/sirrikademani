@@ -18,7 +18,7 @@
 
 💬 I'm certified in **Tableau Desktop and Snowflake (SnowPro Core)**
 
-⚡ Fun fact **I like doing Mandala and Acrylic paintings and I am a good vegetarian cook as well!**
+⚡ Fun fact **I like doing Mandala and Acrylic paintings and I can cook good vegetarian food!**
 
  </div>
  
