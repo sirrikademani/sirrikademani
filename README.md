@@ -45,10 +45,6 @@
   <h2>🚀 Project Portfolio 🚀</h2>
 </div>
 
-<div align="center">
-  <img src="./images/datascience.png" alt="Data Science Logo" width="30" height="30" />
-  <img src="./images/dataanalysis.png" alt="Data Analysis Logo" width="70" height="70" />
-</div>
 
 ### Python Projects <img src="./images/datascience.png" alt="Data Science Logo" width="30" height="30" />
 | Project | Description | Last Updated |
@@ -59,7 +55,7 @@
 | [Data Mining Projects](https://github.com/YourUsername/DataMiningProjects) | Jupyter Notebook | Jun 22, 2023 |
 | [Parking Lot Space Picker Using Computer Vision](https://github.com/YourUsername/ParkingLot-Space-Picker-Using-ComputerVision) | Jupyter Notebook | Jun 19, 2023 |
 
-### Data Analysis and Visualization Projects
+### Data Analysis and Visualization Projects <img src="./images/dataanalysis.png" alt="Data Analysis Logo" width="30" height="30" />
 | Project | Description | Last Updated |
 | --- | --- | --- |
 | [Tableau Dashboards](https://github.com/YourUsername/Tableau-Dashboards) | Config files for GitHub profile | Jul 18, 2023 |
