@@ -41,8 +41,8 @@
 <br/>
 <div align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mySQLserver,github,googlecloudplatform,snowflake,alteryx,tableau,powerbi,qliksense" />
-    <img src="https://skillicons.dev/icons?i=sql,python,unix,bash,html" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,github,gcp,snowflake,alteryx,tableau,powerbi,sklearn,qliksense,visualstudio,wordpress" />
+    <img src="https://skillicons.dev/icons?i=sql,py,unix,bash,html" /><br>
  </a>
 </div>
 
