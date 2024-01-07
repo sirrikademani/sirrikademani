@@ -50,14 +50,14 @@
 <div align="center">
   <h2>⚙️ Technologies & Tools ⚙️</h2>
   <br/>
-  <img src="./images/matplot.png" alt="Matplotlib Logo" width="50" height="50" />
-  <img src="./images/gcp.png" alt="GCP Logo" width="50" height="50" />
-  <img src="./images/tableau.png" alt="Tableau" width="50" height="50" />
-  <img src="./images/snowflake.png" alt="Snowflake Logo" width="50" height="50" />
-  <img src="./images/alteryx.png" alt="Alteryx Logo" width="50" height="50" />
-  <img src="./images/python.png" alt="Python" width="50" height="50" />
-  <img src="./images/sqlserver.png" alt="Microsoft SQL Logo" width="50" height="50" />
-  <img src="./images/mysql.png" alt="My SQL Logo" width="50" height="50" />
+  <img src="./images/matplot.png" alt="Matplotlib Logo" width="70" height="50" />
+  <img src="./images/gcp.png" alt="GCP Logo" width="70" height="50" />
+  <img src="./images/tableau.png" alt="Tableau" width="70" height="50" />
+  <img src="./images/snowflake.png" alt="Snowflake Logo" width="70" height="50" />
+  <img src="./images/alteryx.png" alt="Alteryx Logo" width="70" height="50" />
+  <img src="./images/python.png" alt="Python" width="70" height="50" />
+  <img src="./images/sqlserver.png" alt="Microsoft SQL Logo" width="70" height="50" />
+  <img src="./images/mysql.png" alt="My SQL Logo" width="70" height="50" />
   <br/>
 </div>
 
