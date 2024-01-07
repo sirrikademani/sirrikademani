@@ -50,11 +50,11 @@
 <div align="center">
   <h2>⚙️ Technologies & Tools ⚙️</h2>
   <br/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" alt="NumPy Logo" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" alt="Pandas Logo" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tableau/tableau.png" alt="Tableau Logo" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/snowflake/snowflake.png" alt="Snowflake Logo" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/alteryx/alteryx.png" alt="Alteryx Logo" width="50" height="50" />
+  <img src="./images/numpy.png" alt="NumPy Logo" width="50" height="50" />
+  <img src="./images/pandas.png" alt="Pandas Logo" width="50" height="50" />
+  <img src="./images/tableau.png" alt="Tableau Logo" width="50" height="50" />
+  <img src="./images/snowflake.png" alt="Snowflake Logo" width="50" height="50" />
+  <img src="./images/alteryx.png" alt="Alteryx Logo" width="50" height="50" />
   <br/>
 </div>
 
