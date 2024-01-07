@@ -1,11 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sirrikademani.sirrikademani" />
-<head>
-  <style>
-    body {
-      background-color: #1a1a1a; /* Dark color of your choice */
-      color: #ffffff; /* Text color */
-    }
-  </style>
 
 
 <h1 align="center">
@@ -80,6 +73,6 @@
 <br/><br/>
 
 <hr/>
-</head>
 
+<br/>
 
