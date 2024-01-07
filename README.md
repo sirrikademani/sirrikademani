@@ -87,7 +87,7 @@
 </div>
 
 <div align="center">
-<img src="./images/datalake.png" alt="DataLake Quote Logo" width="70" height="70" />
+<img src="./images/datalake.png" alt="DataLake Quote Logo" width="170" height="170" />
 </div>
 
 <div align="center">
