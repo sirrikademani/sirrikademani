@@ -83,6 +83,34 @@
 
 
 <br/>
+
+<div align="center">
+  <h2 style="color: #2ecc71;">🚀 Project Portfolio 🚀</h2>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python Logo" width="30" height="30" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/data-science/data-science.png" alt="Data Science Logo" width="30" height="30" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visualization/visualization.png" alt="Visualization Logo" width="30" height="30" style="margin-right: 10px;" />
+</div>
+
+### Python Projects
+| Project | Description | Last Updated |
+| --- | --- | --- |
+| [Marketing Data Analysis for Caravana](https://github.com/YourUsername/Marketing-Data-Analysis-for-Caravana) | Jupyter Notebook | Last week |
+| [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/YourUsername/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) | Jupyter Notebook, Power BI | Last week |
+| [Axons Customer Review Category Prediction](https://github.com/YourUsername/Axons-Customer-Review-Category-prediction) | | Jul 18, 2023 |
+| [Data Mining Projects](https://github.com/YourUsername/DataMiningProjects) | Jupyter Notebook | Jun 22, 2023 |
+| [Parking Lot Space Picker Using Computer Vision](https://github.com/YourUsername/ParkingLot-Space-Picker-Using-ComputerVision) | Jupyter Notebook | Jun 19, 2023 |
+
+### Data Analysis and Visualization Projects
+| Project | Description | Last Updated |
+| --- | --- | --- |
+| [Tableau Dashboards](https://github.com/YourUsername/Tableau-Dashboards) | Config files for GitHub profile | Jul 18, 2023 |
+| [Siri Kademani Portfolio](https://github.com/YourUsername/Siri_Kademani.github.io) | HTML, CSS | Oct 1, 2023 |
+| [Topic Modeling Using NLP](https://github.com/YourUsername/Topic-Modeling-Using-NLP) | Jupyter Notebook | [Add Last Updated Date] |
+</div>
+
 <hr/>
 
 <div align="center">
