@@ -7,7 +7,9 @@
 
 
 <h3 align="center">A Data Enthusiast</h3>
-
+<div align="center">
+<img src="./images/datalake.png" alt="DataLake Quote Logo" width="270" height="270" />
+</div>
 <br/>
 
 <div align="center">
@@ -86,9 +88,6 @@
 | [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/YourUsername/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) | Jupyter Notebook, Power BI | 
 </div>
 
-<div align="center">
-<img src="./images/datalake.png" alt="DataLake Quote Logo" width="170" height="170" />
-</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
