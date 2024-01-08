@@ -84,14 +84,14 @@
 | --- | --- | 
 | [Marketing Data Analysis for Caravana](https://github.com/YourUsername/Marketing-Data-Analysis-for-Caravana)<img src="./images/picture1.png" alt="Project Image" width="40" height="40" /> | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
 | [Topic Modeling Using NLP](https://github.com/YourUsername/Topic-Modeling-Using-NLP) | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
-| [Axons Customer Review Category Prediction](https://github.com/YourUsername/Axons-Customer-Review-Category-prediction) | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />, <img src="./images/tableau.png" alt="Tableau logo" width="60" height="70" /> | 
+| [Axons Customer Review Category Prediction](https://github.com/YourUsername/Axons-Customer-Review-Category-prediction) | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />, <img src="./images/tableau.png" alt="Tableau logo" width="60" height="50" /> | 
 | [Data Mining Projects](https://github.com/YourUsername/DataMiningProjects) | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
 | [Parking Lot Space Picker Using Computer Vision](https://github.com/YourUsername/ParkingLot-Space-Picker-Using-ComputerVision) | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
 
 ### Data Analysis and Visualization Projects <img src="./images/dataanalysis1.png" alt="Data Analysis Logo" width="40" height="40" />
 | Project | Description |
 | --- | --- | 
-| [Tableau Dashboards](https://github.com/YourUsername/Tableau-Dashboards) | <img src="./images/tableau.png" alt="Tableau" width="90" height="70" /> | 
+| [Tableau Dashboards](https://github.com/YourUsername/Tableau-Dashboards) | <img src="./images/tableau.png" alt="Tableau" width="60" height="50" /> | 
 | [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/YourUsername/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) |  <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />,  <img src="./images/powerbi.png" alt="Power BI Logo" width="70" height="70" /> | 
 </div>
 
