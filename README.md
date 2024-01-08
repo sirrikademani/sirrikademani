@@ -101,8 +101,6 @@
     <h2 style="background-color: #f2f2f2;">📲 Social Media Profiles  💻</h2>
 </div>
 
-
-### Social Media Profiles <img src="./images/socialmedia.png" alt=Social Media Logo" width="40" height="40" />
 | Coding Profile | Social Media |
 | --- | --- | 
 | <a href="https://www.hackerrank.com/profile/skademan" class="image"><img src="images/hackerrank.png" alt="" width="40" height="40" /></a> | <a href="https://www.linkedin.com/in/sirimk/" class="image"><img src="images/linkedin.png" alt="" width="40" height="40" /></a> |
