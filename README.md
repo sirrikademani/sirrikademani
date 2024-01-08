@@ -82,7 +82,7 @@
 ### Python Projects <img src="./images/datascience.png" alt="Data Science Logo" width="40" height="40" />
 | Project | Description |
 | --- | --- | 
-| [Marketing Data Analysis for Caravana](https://github.com/YourUsername/Marketing-Data-Analysis-for-Caravana) | Jupyter Notebook | 
+| [Marketing Data Analysis for Caravana](https://github.com/YourUsername/Marketing-Data-Analysis-for-Caravana)<img src="./images/picture1.png" alt="Project Image" width="40" height="40" /> | img src="./images/jupyter.png" alt="Jupyter logo" width="30" height="30" /> | 
 | [Topic Modeling Using NLP](https://github.com/YourUsername/Topic-Modeling-Using-NLP) | Jupyter Notebook | 
 | [Axons Customer Review Category Prediction](https://github.com/YourUsername/Axons-Customer-Review-Category-prediction) | Jupyter Notebook | 
 | [Data Mining Projects](https://github.com/YourUsername/DataMiningProjects) | Jupyter Notebook | 
