@@ -106,7 +106,7 @@
 | Coding Profile | Social Media |
 | --- | --- | 
 | [!HackerRank(https://www.hackerrank.com/profile/skademan)]<img src="./images/hackerrank.png" alt="HackerRank logo" width="40" height="40" /> | [LinkedIn](https://www.linkedin.com/in/sirimk/)<img src="./images/linkedin.png" alt="linkedin logo" width="40" height="40" /> | 
-| [Topic Modeling Using NLP](https://github.com/YourUsername/Topic-Modeling-Using-NLP) | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
+| <a href="https://www.hackerrank.com/profile/skademan" class="image"><img src="images/hackerrank.png" alt="" /></a> | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> <a href="https://www.linkedin.com/in/sirimk/" class="image"><img src="images/linkedin.png" alt="" /></a> |
 | [Axons Customer Review Category Prediction](https://github.com/YourUsername/Axons-Customer-Review-Category-prediction) | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />, <img src="./images/tableau.png" alt="Tableau logo" width="40" height="40" /> | 
 
 </div>
