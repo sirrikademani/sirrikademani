@@ -96,6 +96,20 @@
 </div>
 
 
+
+<div align="center">
+    <h2 style="background-color: #f2f2f2;">🚀 Project Portfolio 🚀</h2>
+</div>
+
+
+### Social Media Profiles <img src="./images/socialmedia.png" alt=Social Media Logo" width="40" height="40" />
+| Coding Profile | Social Media |
+| --- | --- | 
+| (https://www.hackerrank.com/profile/skademan)<img src="./images/hacker.png" alt="HackerRank logo" width="40" height="40" /> | (https://www.linkedin.com/in/sirimk/)<img src="./images/linkedin.png" alt="linkedin logo" width="40" height="40" /> | 
+| [Topic Modeling Using NLP](https://github.com/YourUsername/Topic-Modeling-Using-NLP) | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
+| [Axons Customer Review Category Prediction](https://github.com/YourUsername/Axons-Customer-Review-Category-prediction) | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />, <img src="./images/tableau.png" alt="Tableau logo" width="40" height="40" /> | 
+
+</div>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
