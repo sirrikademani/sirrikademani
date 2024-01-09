@@ -11,7 +11,7 @@
 I love the quote, “Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”
 ~ Dan Heath, bestselling author
 Dan Heath's quote underscores the distinction between raw data and insights, emphasizing that data in its unprocessed state seldom holds intrinsic meaning; true significance emerges only when insights are derived.
-<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
+<img src="https://github.com/sirrikademani/sirrikademani/tree/main/images/giphy.gif"/></p>
 </br>
 
 </br>
