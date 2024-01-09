@@ -85,7 +85,7 @@
 ### Python Projects <img src="./images/datascience.png" alt="Data Science Logo" width="40" height="40" />
 | Project | Description| Tools |
 | --- | --- | --- | 
-| [Marketing Data Analysis for Caravana](https://github.com/sirrikademani/Marketing-Data-Analysis-for-Caravana) |<img src= "https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif" align="center" alt="Project Image" style="max-width: 100%;" /><br/> Analyze Caravana's marketing data, specifically focusing on user click data and subsequent user actions leading up to sales. Each click event is associated with a specific marketing channel, and your task is to attribute user actions to these channels. The analysis helps us understand the relative performance for each channel.|<img src="./images/jupyter1.png" alt="Jupyter logo" width="140" height="140" /> | 
+| [Marketing Data Analysis for Caravana](https://github.com/sirrikademani/Marketing-Data-Analysis-for-Caravana) |<img src= "./images/mktanalysis.png" align="center" alt="mkt analysis Image" style="max-width: 100%;" /><br/> Analyze Caravana's marketing data, specifically focusing on user click data and subsequent user actions leading up to sales. Each click event is associated with a specific marketing channel, and your task is to attribute user actions to these channels. The analysis helps us understand the relative performance for each channel.|<img src="./images/jupyter1.png" alt="Jupyter logo" width="140" height="140" /> | 
 | [Topic Modeling Using NLP](https://github.com/YourUsername/Topic-Modeling-Using-NLP) | <img src="./images/projectzomato.png" alt="Project Image" style="max-width: 100%;" /><br/>Propounded market-entry methods for expansion of Zomato in USA by conducting market analysis using data from competitors. Employed techniques like scraping Reddit data with PRAW library, data pre-processing, and LDA modeling. Identified topics such as delivery speed, customer service, and app features to devise launch strategies| <img src="./images/jupyter1.png" alt="Jupyter logo" width="140" height="140" /> | 
 | [Axons Customer Review Category Prediction](https://github.com/sirrikademani/Topic-Modeling-Using-NLP) | <img src="./images/projectaxon.png" alt="Project Image" style="max-width: 100%;" /><br/>Devised binary classification model for text categorization using NLP based on customer reviews to avoid manual classification to save 2 days of manual work. Led a team to formulate Tableau dashboards and presented before and after insight results to client.|<img src="./images/jupyter1.png" alt="Jupyter logo" width="140" height="140" />, <img src="./images/tableau.png" alt="Tableau logo" style="max-width: 100%;" /> | 
 | [Santander Customer Satisfaction Prediction](https://github.com/sirrikademani/Santander-Customer-Satisfaction-Prediction) | <img src="./images/SANTANDER.PNG" alt="Project Image" style="max-width: 100%;" /><br/>Performed exploratory data analysis [EDA] and devised decision tree model to predict the satisfaction of customers by training high volume of 76K rows of training data. |<img src="./images/jupyter1.png" alt="Jupyter logo" width="140" height="140" /> | 
@@ -120,6 +120,9 @@
 </div>
 
 <hr/>
+<div align="center">
+<img src= "https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif" align="center" alt="Project Image" style="max-width: 100%;" /><br/>
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
