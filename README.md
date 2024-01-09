@@ -21,7 +21,6 @@
 
 
 <div align="left">
-🔭 Actively seeking roles in **Data Science, Data Analysis, and Business Intelligence** to leverage my 4 years of experience. 
 
 🌱 Proficient in **SQL, Python, Alteryx, Snowflake, Alation, JIRA, Microsoft Office, Tableau, Qlik Sense, and Power BI.** I have a strong foundation in enterprise analytics, marketing analytics, and business process analytics.
 
@@ -85,7 +84,7 @@
     <h2 style="background-color: #f2f2f2;">🚀 Project Portfolio 🚀 </h2>
 </div>
 
-### Python Projects <img src="./images/datascience.png" alt="Data Science Logo" width="40" height="40" />
+### 🔭 Python Projects <img src="./images/datascience.png" alt="Data Science Logo" width="40" height="40" />
 | Project | Description| Tools |
 | --- | --- | --- | 
 | [Marketing Data Analysis for Caravana](https://github.com/sirrikademani/Marketing-Data-Analysis-for-Caravana) |<img src= "./images/mktanalysis.png" align="center" alt="mkt analysis Image" style="max-width: 100%;" /><br/> Analyze Caravana's marketing data, specifically focusing on user click data and subsequent user actions leading up to sales. Each click event is associated with a specific marketing channel, and your task is to attribute user actions to these channels. The analysis helps us understand the relative performance for each channel.|<img src="./images/jupyter1.png" alt="Jupyter logo" width="140" height="140" /> | 
@@ -95,7 +94,7 @@
 | [Parking Lot Space Picker Using Computer Vision](https://github.com/sirrikademani/ParkingLot-Space-Picker-Using-ComputerVision) | <img src="./images/projectcarspacedetector.png" alt="Project Image" style="max-width: 100%;" /><br/>Developed a Parking Lot space detector and counter using Computer Vision|<img src="./images/jupyter1.png" alt="Jupyter logo" width="140" height="140" /> | 
 
 
-### Data Analysis and Visualization Projects <img src="./images/dataanalysis1.png" alt="Data Analysis Logo" width="40" height="40" />
+### 🔭 Data Analysis and Visualization Projects <img src="./images/dataanalysis1.png" alt="Data Analysis Logo" width="40" height="40" />
 | Project | Description| Tools |
 | --- | --- | --- | 
 | [Tableau Dashboard Workbooks](https://github.com/sirrikademani/Tableau-Dashboards) |<img src="./images/projectVWA.png" alt="Project Image" style="max-width: 100%;" /><br/>Presenting some of my Tableau work here, you can also visit my Tableau Public to see some of the dashboards built-> https://public.tableau.com/app/profile/siri1111 | <img src="./images/tableau.png" alt="Tableau" style="max-width: 100%;" /> | 
@@ -103,7 +102,7 @@
 </div>
 
 <div align="center">
-    <h2 style="background-color: #f2f2f2;">📲 Social Media Profiles  💻</h2>
+    <h2 style="background-color: #f2f2f2;">💻 Social Media Profiles 💻</h2>
 
 
 | Coding Profile | Social Media |
