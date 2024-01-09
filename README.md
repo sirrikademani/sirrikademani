@@ -3,13 +3,13 @@
 
 <h1 align="center">
     <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Siri+Kademani!;" /> -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=36&duration=3000&pause=1000&color=2027C3&center=true&vCenter=true&random=false&width=435&lines=Hello!;I'm+Siri+Kademani!%F0%9F%91%8B" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=36&pause=1000&color=1D32D7&center=true&vCenter=true&random=false&width=435&lines=Hi+There!;I'm+Siri+Kademani%F0%9F%91%8B;A+Data+Enthusiast!" alt="Typing SVG" /></a>
 </h1>
 
 
-<h3 align="center" style="color: #2027C3;">A Data Enthusiast</h3>
+<h3 align="center" >“Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”</h3>
 <div align=center>
-<h4>I love the quote, “Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”</h4>
+<h4>I love the above quote.</h4>
 <h4>~ Dan Heath, bestselling author.</h4>
 <h4>Dan Heath's quote underscores the distinction between raw data and insights, emphasizing that data in its unprocessed state seldom holds intrinsic meaning; true significance emerges only when insights are derived.</br></h4>
 <img src= "https://github.com/sirrikademani/sirrikademani/blob/main/images/giphy.gif" align="center" alt="Project Image" style="max-width: 100%;" /><br/>
