@@ -80,8 +80,8 @@
 
 
 ### Python Projects <img src="./images/datascience.png" alt="Data Science Logo" width="40" height="40" />
-| Project | Tools |
-| --- | --- | 
+| Project | Description| Tools |
+| --- | --- | --- | 
 | [Marketing Data Analysis for Caravana](https://github.com/YourUsername/Marketing-Data-Analysis-for-Caravana)<img src="./images/mktanalysis.png" alt="Project Image" width="40" height="40" /> | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
 | [Topic Modeling Using NLP](https://github.com/YourUsername/Topic-Modeling-Using-NLP) | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
 | [Axons Customer Review Category Prediction](https://github.com/YourUsername/Axons-Customer-Review-Category-prediction) | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />, <img src="./images/tableau.png" alt="Tableau logo" width="60" height="50" /> | 
@@ -89,8 +89,8 @@
 | [Parking Lot Space Picker Using Computer Vision](https://github.com/YourUsername/ParkingLot-Space-Picker-Using-ComputerVision) | <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
 
 ### Data Analysis and Visualization Projects <img src="./images/dataanalysis1.png" alt="Data Analysis Logo" width="40" height="40" />
-| Project | Tools |
-| --- | --- | 
+| Project | Description| Tools |
+| --- | --- | --- | 
 | [Tableau Dashboards](https://github.com/YourUsername/Tableau-Dashboards) | <img src="./images/tableau.png" alt="Tableau" width="60" height="50" /> | 
 | [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/YourUsername/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) |  <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />,  <img src="./images/powerbi.png" alt="Power BI Logo" width="40" height="40" /> | 
 </div>
@@ -103,9 +103,9 @@
 
 | Coding Profile | Social Media |
 | --- | --- | 
-| <a href="https://www.hackerrank.com/profile/skademan" class="image"><img src="images/hackerrank.png" alt="Hacker Rank" width="40" height="40" /></a> | <a href="https://www.linkedin.com/in/sirimk/" class="image"><img src="images/linkedin.png" alt="LinkedIn" width="40" height="40" /></a> |
-| <a href="https://public.tableau.com/app/profile/siri1111" class="image"><img src="images/tableau.png" alt="Tableau Public" width="50" height="40" /></a> |<a href="https://sirrikademani.github.io/Siri_Kademani.github.io/" class="image"><img src="images/portfolio.png" alt="Portfolio" width="40" height="40" /></a>|
-| <a href="https://platform.stratascratch.com/user/siri.kademani19" class="image"><img src="images/strata.png" alt="Strata scratch" width="40" height="40" /></a> | <a href="https://instagram.com/walkofart19?igshid=Y2I2MzMwZWM3ZA==" class="image"><img src="images/instagram.png" alt="Art Account" width="40" height="40" /></a> |  
+| <a href="https://www.hackerrank.com/profile/skademan" class="image"><img src="images/hackerrank.png" alt="Hacker Rank" width="40" height="40" />Hacker Rank</a> | <a href="https://www.linkedin.com/in/sirimk/" class="image"><img src="images/linkedin.png" alt="LinkedIn" width="40" height="40" />LinkedIn</a> |
+| <a href="https://public.tableau.com/app/profile/siri1111" class="image"><img src="images/tableau.png" alt="Tableau Public" width="50" height="40" />Tableau Public</a> |<a href="https://sirrikademani.github.io/Siri_Kademani.github.io/" class="image"><img src="images/portfolio.png" alt="Portfolio" width="40" height="40" />Portfolio</a>|
+| <a href="https://platform.stratascratch.com/user/siri.kademani19" class="image"><img src="images/strata.png" alt="Strata scratch" width="40" height="40" />Strata scratch</a> | <a href="https://instagram.com/walkofart19?igshid=Y2I2MzMwZWM3ZA==" class="image"><img src="images/instagram.png" alt="Art Account" width="40" height="40" />Art Account</a> |  
 
 
 </div>
