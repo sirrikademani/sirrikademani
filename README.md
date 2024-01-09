@@ -95,17 +95,15 @@
 | [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/sirrikademani/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) | Performing Portfolio Analysis due to winter storm damage for a client insurance company using descriptive and predictive analytics to understand the vulnerability due to various factors and plotting correlation to fetch insights. |<img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />,  <img src="./images/powerbi.png" alt="Power BI Logo" width="40" height="40" /> | 
 </div>
 
-
-
 <div align="center">
     <h2 style="background-color: #f2f2f2;">📲 Social Media Profiles  💻</h2>
 </div>
 
 | Coding Profile | Social Media |
 | --- | --- | 
-| <a href="https://www.hackerrank.com/profile/skademan" class="image"><img src="images/hackerrank.png" alt="Hacker Rank" width="40" height="40" />HackerRank</a> | <a href="https://www.linkedin.com/in/sirimk/" class="image">LinkedIn<img src="images/linkedin.png" alt="LinkedIn" width="40" height="40" /></a> |
-| <a href="https://public.tableau.com/app/profile/siri1111" class="image"><img src="images/tableau.png" alt="Tableau Public" width="50" height="40" />Tableau Public</a> |GitHub<a href="https://sirrikademani.github.io/Siri_Kademani.github.io/" class="image"><img src="images/portfolio1.png" alt="Portfolio" width="40" height="40" /></a>|
-| <a href="https://platform.stratascratch.com/user/siri.kademani19" class="image"><img src="images/strata.png" alt="Strata scratch" width="40" height="40" /></a> | <a href="https://instagram.com/walkofart19?igshid=Y2I2MzMwZWM3ZA==" class="image"><img src="images/instagram.png" alt="Art Account" width="40" height="40" /></a> |  
+|Hacker Rank  <a href="https://www.hackerrank.com/profile/skademan" class="image"><img src="images/hackerrank.png" alt="Hacker Rank" width="40" height="40" />HackerRank</a> |LinkedIn  <a href="https://www.linkedin.com/in/sirimk/" class="image">LinkedIn<img src="images/linkedin.png" alt="LinkedIn" width="40" height="40" /></a> |
+|Tableau Public   <a href="https://public.tableau.com/app/profile/siri1111" class="image"><img src="images/tableau.png" alt="Tableau Public" width="50" height="40" /> </a> |Portfolio Website  <a href="https://sirrikademani.github.io/Siri_Kademani.github.io/" class="image"><img src="images/portfolio1.png" alt="Portfolio" width="40" height="40" /></a>|
+|Strata scratch  <a href="https://platform.stratascratch.com/user/siri.kademani19" class="image"><img src="images/strata.png" alt="Strata scratch" width="40" height="40" /></a> |Art Account  <a href="https://instagram.com/walkofart19?igshid=Y2I2MzMwZWM3ZA==" class="image"><img src="images/instagram.png" alt="Art Account" width="40" height="40" /></a> |  
 
 
 </div>
