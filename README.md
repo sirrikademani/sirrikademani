@@ -7,7 +7,7 @@
 </h1>
 
 
-<h3 align="center" >A Data Enthusiast</h3>
+<h3 align="center" style="color: #2027C3;">A Data Enthusiast</h3>
 </br>
 
 </br>
