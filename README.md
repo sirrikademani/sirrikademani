@@ -97,7 +97,7 @@
 </div>
 
 <br/>
-![/images/your_gif.gif](https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif))
+![/images/your_gif.gif](https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif)
 <br/>
 <div align="center">
     <h2 style="background-color: #f2f2f2;">📲 Social Media Profiles  💻</h2>
