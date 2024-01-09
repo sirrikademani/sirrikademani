@@ -17,21 +17,8 @@
 
 <div align="left">
 📊 Crafting stories from data chaos. As a seasoned Data Enthusiast, I bring raw numbers to life, turning them into captivating narratives. Embracing Dan Heath's wisdom, I believe that data are not just summaries but a collection of stories waiting to be told. Join me on GitHub, where I spin tales, one line of code at a time. Let's decode the world of data together! 💻✨
-    </br>
+</br>
 </div>
-
-
-<div align="left">
-
-🌱 Proficient in **SQL, Python, Alteryx, Snowflake, Alation, JIRA, Microsoft Office, Tableau, Qlik Sense, and Power BI.** I have a strong foundation in enterprise analytics, marketing analytics, and business process analytics.
-
-❤️ Passionate about crafting insightful dashboards that drive data-driven decision-making. 
-
-💬 Certified in **Tableau Desktop and Snowflake (SnowPro Core)**, with a proven track record of automating tasks and optimizing data processes.
-
-⚡ Fun fact: Apart from my analytical skills, I find joy in creating Mandala and Acrylic paintings. Also, I take pride in being a proficient vegetarian cook!
-
- </div>
  
 <div align="center"> 
   <a href="mailto:skademan@asu.edu">
@@ -51,7 +38,17 @@
  <hr/>
  
 </div>
+<div align="left">
 
+🌱 Proficient in **SQL, Python, Alteryx, Snowflake, Alation, JIRA, Microsoft Office, Tableau, Qlik Sense, and Power BI.** I have a strong foundation in enterprise analytics, marketing analytics, and business process analytics.
+
+❤️ Passionate about crafting insightful dashboards that drive data-driven decision-making. 
+
+💬 Certified in **Tableau Desktop and Snowflake (SnowPro Core)**, with a proven track record of automating tasks and optimizing data processes.
+
+⚡ Fun fact: Apart from my analytical skills, I find joy in creating Mandala and Acrylic paintings. Also, I take pride in being a proficient vegetarian cook!
+
+ </div>
 
 <div align="center">
   <h2>⚙️ Technologies & Tools ⚙️</h2>
