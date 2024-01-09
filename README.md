@@ -17,6 +17,7 @@
 
 <div align="left">
 📊 Crafting stories from data chaos. As a seasoned Data Enthusiast, I bring raw numbers to life, turning them into captivating narratives. Embracing Dan Heath's wisdom, I believe that data are not just summaries but a collection of stories waiting to be told. Join me on GitHub, where I spin tales, one line of code at a time. Let's decode the world of data together! 💻✨
+    </br>
 </div>
 
 
