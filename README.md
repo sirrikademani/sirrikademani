@@ -103,8 +103,8 @@
 
 | Coding Profile | Social Media |
 | --- | --- | 
-| <a href="https://www.hackerrank.com/profile/skademan" class="image"><img src="images/hackerrank.png" alt="Hacker Rank" width="40" height="40" /></a> | <a href="https://www.linkedin.com/in/sirimk/" class="image"><img src="images/linkedin.png" alt="LinkedIn" width="40" height="40" /></a> |
-| <a href="https://public.tableau.com/app/profile/siri1111" class="image"><img src="images/tableau.png" alt="Tableau Public" width="50" height="40" /></a> |<a href="https://sirrikademani.github.io/Siri_Kademani.github.io/" class="image"><img src="images/portfolio1.png" alt="Portfolio" width="40" height="40" /></a>|
+| <a href="https://www.hackerrank.com/profile/skademan" class="image"><img src="images/hackerrank.png" alt="Hacker Rank" width="40" height="40" />HackerRank</a> | <a href="https://www.linkedin.com/in/sirimk/" class="image">LinkedIn<img src="images/linkedin.png" alt="LinkedIn" width="40" height="40" /></a> |
+| <a href="https://public.tableau.com/app/profile/siri1111" class="image"><img src="images/tableau.png" alt="Tableau Public" width="50" height="40" />Tableau Public</a> |GitHub<a href="https://sirrikademani.github.io/Siri_Kademani.github.io/" class="image"><img src="images/portfolio1.png" alt="Portfolio" width="40" height="40" /></a>|
 | <a href="https://platform.stratascratch.com/user/siri.kademani19" class="image"><img src="images/strata.png" alt="Strata scratch" width="40" height="40" /></a> | <a href="https://instagram.com/walkofart19?igshid=Y2I2MzMwZWM3ZA==" class="image"><img src="images/instagram.png" alt="Art Account" width="40" height="40" /></a> |  
 
 
