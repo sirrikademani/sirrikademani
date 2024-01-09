@@ -10,7 +10,7 @@
 <h3 align="center" >A Data Enthusiast</h3>
 </br>
 
-<div>
+<div align="center">
 <img src= "https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif" align="center" />
   <!--![](https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif)-->
 </div>
