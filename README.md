@@ -7,20 +7,23 @@
 </h1>
 
 <div align=center>
-<h4 align="center" >“Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”~ Dan Heath, bestselling author.</h4>
-Dan Heath's quote underscores the distinction between raw data and insights, emphasizing that data in its unprocessed state seldom holds intrinsic meaning; true significance emerges only when insights are derived.</br>
+<h4 align="center" >“Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”~ Dan Heath.</h4>
 
 <img src= "https://github.com/sirrikademani/sirrikademani/blob/main/images/giphy.gif" align="center" alt="Project Image" style="max-width: 100%;" /><br/>
 </br>
-</div>div>
+</div>
 </br>
+
+
+<div align="left">
+📊 Crafting stories from data chaos. As a seasoned Data Enthusiast, I bring raw numbers to life, turning them into captivating narratives. Embracing Dan Heath's wisdom, I believe that data are not just summaries but a collection of stories waiting to be told. Join me on GitHub, where I spin tales, one line of code at a time. Let's decode the world of data together! 💻✨
+</div>
 
 <div align="center">
 <img src="./images/datalake.png" alt="DataLake Quote Logo" width="370" height="270" />
 </div>
 
 <div align="left">
- 
 🔭 Actively seeking roles in **Data Science, Data Analysis, and Business Intelligence** to leverage my 4 years of experience. 
 
 🌱 Proficient in **SQL, Python, Alteryx, Snowflake, Alation, JIRA, Microsoft Office, Tableau, Qlik Sense, and Power BI.** I have a strong foundation in enterprise analytics, marketing analytics, and business process analytics.
