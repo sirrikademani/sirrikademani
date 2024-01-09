@@ -19,9 +19,6 @@
 📊 Crafting stories from data chaos. As a seasoned Data Enthusiast, I bring raw numbers to life, turning them into captivating narratives. Embracing Dan Heath's wisdom, I believe that data are not just summaries but a collection of stories waiting to be told. Join me on GitHub, where I spin tales, one line of code at a time. Let's decode the world of data together! 💻✨
 </div>
 
-<div align="center">
-<img src="./images/datalake.png" alt="DataLake Quote Logo" width="370" height="270" />
-</div>
 
 <div align="left">
 🔭 Actively seeking roles in **Data Science, Data Analysis, and Business Intelligence** to leverage my 4 years of experience. 
@@ -127,7 +124,7 @@
 
 <hr/>
 <div align="center">
-<img src= "https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif" align="center" alt="Project Image" style="max-width: 100%;" /><br/>
+<img src="./images/datalake.png" alt="DataLake Quote Logo" width="370" height="270" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
