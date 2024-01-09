@@ -12,7 +12,7 @@
 </div>
 <br/>
 
-<div align="center">
+<div align="left">
  
 🔭 I’m currently looking for opportunities in **Data Science, Data Analysis and Business Intelligence roles.**
  
