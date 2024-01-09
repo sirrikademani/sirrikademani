@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">A Data Enthusiast</h3>
+<h3 align="center" style="color: #0066cc;">A Data Enthusiast</h3>
 <div align="center">
 <img src="./images/datalake.png" alt="DataLake Quote Logo" width="370" height="270" />
 </div>
