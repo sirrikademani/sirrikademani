@@ -15,15 +15,15 @@
 
 <div align="left">
  
-🔭 I’m currently looking for opportunities in **Data Science, Data Analysis and Business Intelligence roles.**
- 
-🌱 I’m proficient in **SQL, Python, Alteryx, Snowflake, Alation, JIRA, Microsoft Office, Tableau, Qlik Sense, and Power BI.**
+🔭 Actively seeking roles in **Data Science, Data Analysis, and Business Intelligence** to leverage my 4 years of experience. 
 
-❤️ I love creating dashboards and I love fetching meaningful insights from them.
+🌱 Proficient in **SQL, Python, Alteryx, Snowflake, Alation, JIRA, Microsoft Office, Tableau, Qlik Sense, and Power BI.** I have a strong foundation in enterprise analytics, marketing analytics, and business process analytics.
 
-💬 I'm certified in **Tableau Desktop and Snowflake (SnowPro Core)**
+❤️ Passionate about crafting insightful dashboards that drive data-driven decision-making. 
 
-⚡ Fun fact **I like doing Mandala and Acrylic paintings and I can cook good vegetarian food!**
+💬 Certified in **Tableau Desktop and Snowflake (SnowPro Core)**, with a proven track record of automating tasks and optimizing data processes.
+
+⚡ Fun fact: Apart from my analytical skills, I find joy in creating Mandala and Acrylic paintings. Also, I take pride in being a proficient vegetarian cook!
 
  </div>
  
