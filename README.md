@@ -12,7 +12,8 @@
 <img src="./images/datalake.png" alt="DataLake Quote Logo" width="370" height="270" />
 </div>
 <br/>
-
+![Exciting GIF](https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif)
+<br/>
 <div align="left">
  
 🔭 Actively seeking roles in **Data Science, Data Analysis, and Business Intelligence** to leverage my 4 years of experience. 
@@ -96,9 +97,6 @@
 | [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/sirrikademani/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) | <img src="./images/insurance.png" alt="Project Image" style="max-width: 100%;" /><br/>Performing Portfolio Analysis due to winter storm damage for a client insurance company using descriptive and predictive analytics to understand the vulnerability due to various factors and plotting correlation to fetch insights. |<img src="./images/jupyter1.png" alt="Jupyter logo" style="max-width: 100%;" />,  <img src="./images/powerbi.png" alt="Power BI Logo" style="max-width: 100%;" /> | 
 </div>
 
-<br/>
-![/images/your_gif.gif](https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif)
-<br/>
 <div align="center">
     <h2 style="background-color: #f2f2f2;">📲 Social Media Profiles  💻</h2>
 </div>
