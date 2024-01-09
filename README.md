@@ -12,6 +12,7 @@ I love the quote, “Data are just summaries of thousands of stories—tell a fe
 ~ Dan Heath, bestselling author
 Dan Heath's quote underscores the distinction between raw data and insights, emphasizing that data in its unprocessed state seldom holds intrinsic meaning; true significance emerges only when insights are derived.
 <img src="https://github.com/sirrikademani/sirrikademani/tree/main/images/giphy.gif"/></p>
+<img src= "https://github.com/sirrikademani/sirrikademani/blob/main/images/giphy.gif" align="center" alt="Project Image" style="max-width: 100%;" /><br/>
 </br>
 
 </br>
