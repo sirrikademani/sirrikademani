@@ -92,7 +92,7 @@
 ### Data Analysis and Visualization Projects <img src="./images/dataanalysis1.png" alt="Data Analysis Logo" width="40" height="40" />
 | Project | Description| Tools |
 | --- | --- | --- | 
-| [Tableau Dashboard Workbooks](https://github.com/sirrikademani/Tableau-Dashboards) |<img src="./images/projectVWA.png" alt="Project Image" width="40" height="40" />Presenting some of my Tableau work here, you can also visit my Tableau Public to see some of the dashboards built-> https://public.tableau.com/app/profile/siri1111 | <img src="./images/tableau.png" alt="Tableau" width="60" height="50" /> | 
+| [Tableau Dashboard Workbooks](https://github.com/sirrikademani/Tableau-Dashboards) |<img src="./images/projectVWA.png" alt="Project Image" width="40" height="40" />Presenting some of my Tableau work here, you can also visit my Tableau Public to see some of the dashboards built-> https://public.tableau.com/app/profile/siri1111 | <img src="./images/tableau.png" alt="Tableau" style="max-width: 100%;" /> | 
 | [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/sirrikademani/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) | <img src="./images/insurance.png" alt="Project Image" width="40" height="40" />Performing Portfolio Analysis due to winter storm damage for a client insurance company using descriptive and predictive analytics to understand the vulnerability due to various factors and plotting correlation to fetch insights. |<img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />,  <img src="./images/powerbi.png" alt="Power BI Logo" width="40" height="40" /> | 
 </div>
 
