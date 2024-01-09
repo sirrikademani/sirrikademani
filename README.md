@@ -99,7 +99,7 @@
 <div align="center">
     <h2 style="background-color: #f2f2f2;">📲 Social Media Profiles  💻</h2>
 </div>
-
+![Animated GIF](./images/your_gif.gif)
 | Coding Profile | Social Media |
 | --- | --- | 
 |Hacker Rank  <a href="https://www.hackerrank.com/profile/skademan" class="image" ><img src="images/hackerrank.png" align="right" alt="Hacker Rank" width="40" height="40" /></a> |LinkedIn  <a href="https://www.linkedin.com/in/sirimk/" class="image"><img src="images/linkedin.png" align="right" alt="LinkedIn" width="40" height="40" /></a> |
