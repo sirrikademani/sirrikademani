@@ -10,11 +10,6 @@
 <h3 align="center" >A Data Enthusiast</h3>
 </br>
 
-<div align="center">
-<img src= "https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif" align="center" />
-  <!--![](https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif)-->
-</div>
-
 </br>
 
 <div align="center">
@@ -54,6 +49,7 @@
  
 </div>
 
+<img src= "https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif" align="center" />
 
 <div align="center">
   <h2>⚙️ Technologies & Tools ⚙️</h2>
@@ -87,7 +83,6 @@
     <h2 style="background-color: #f2f2f2;">🚀 Project Portfolio 🚀 </h2>
 </div>
 
-
 ### Python Projects <img src="./images/datascience.png" alt="Data Science Logo" width="40" height="40" />
 | Project | Description| Tools |
 | --- | --- | --- | 
@@ -97,6 +92,8 @@
 | [Santander Customer Satisfaction Prediction](https://github.com/sirrikademani/Santander-Customer-Satisfaction-Prediction) | <img src="./images/SANTANDER.PNG" alt="Project Image" style="max-width: 100%;" /><br/>Performed exploratory data analysis [EDA] and devised decision tree model to predict the satisfaction of customers by training high volume of 76K rows of training data. |<img src="./images/jupyter1.png" alt="Jupyter logo" width="140" height="140" /> | 
 | [Parking Lot Space Picker Using Computer Vision](https://github.com/sirrikademani/ParkingLot-Space-Picker-Using-ComputerVision) | <img src="./images/projectcarspacedetector.png" alt="Project Image" style="max-width: 100%;" /><br/>Developed a Parking Lot space detector and counter using Computer Vision|<img src="./images/jupyter1.png" alt="Jupyter logo" width="140" height="140" /> | 
 
+ <img src= "https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif" align="center" />
+ 
 ### Data Analysis and Visualization Projects <img src="./images/dataanalysis1.png" alt="Data Analysis Logo" width="40" height="40" />
 | Project | Description| Tools |
 | --- | --- | --- | 
