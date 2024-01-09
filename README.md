@@ -7,10 +7,8 @@
 </h1>
 
 <div align=center>
-<h3 align="center" >“Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”</h3>
-<h4>I love the above quote.</br>
-~ Dan Heath, bestselling author.</br>
-Dan Heath's quote underscores the distinction between raw data and insights, emphasizing that data in its unprocessed state seldom holds intrinsic meaning; true significance emerges only when insights are derived.</br></h4>
+<h3 align="center" >“Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”~ Dan Heath, bestselling author.</h3>
+<h4>Dan Heath's quote underscores the distinction between raw data and insights, emphasizing that data in its unprocessed state seldom holds intrinsic meaning; true significance emerges only when insights are derived.</br></h4>
 
 <img src= "https://github.com/sirrikademani/sirrikademani/blob/main/images/giphy.gif" align="center" alt="Project Image" style="max-width: 100%;" /><br/>
 </br>
