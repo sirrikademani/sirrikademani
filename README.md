@@ -11,7 +11,7 @@
 </br>
 
 <div>
-<img src= "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" />
+<img src= "https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif" align="center" />
   <!--![](https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif)-->
 </div>
 
