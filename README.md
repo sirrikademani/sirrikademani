@@ -11,7 +11,7 @@
 </br>
 
 <div>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+  <!--![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)-->
 ![](https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif)
 </div>
 <div align="center">
