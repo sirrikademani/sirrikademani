@@ -8,6 +8,11 @@
 
 
 <h3 align="center" >A Data Enthusiast</h3>
+</br>
+
+<div>
+![](https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif)
+</div>
 <div align="center">
 <img src="./images/datalake.png" alt="DataLake Quote Logo" width="370" height="270" />
 </div>
