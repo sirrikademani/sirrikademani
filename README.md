@@ -84,15 +84,15 @@
 | --- | --- | --- | 
 | [Marketing Data Analysis for Caravana](https://github.com/sirrikademani/Marketing-Data-Analysis-for-Caravana) |<img src="./images/mktanalysis.png" alt="Project Image" width="40" height="40" /> Analyze Caravana's marketing data, specifically focusing on user click data and subsequent user actions leading up to sales. Each click event is associated with a specific marketing channel, and your task is to attribute user actions to these channels. The analysis helps us understand the relative performance for each channel.|<img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
 | [Topic Modeling Using NLP](https://github.com/YourUsername/Topic-Modeling-Using-NLP) | Propounded market-entry methods for expansion of Zomato in USA by conducting market analysis using data from competitors. Employed techniques like scraping Reddit data with PRAW library, data pre-processing, and LDA modeling. Identified topics such as delivery speed, customer service, and app features to devise launch strategies| <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
-| [Axons Customer Review Category Prediction](https://github.com/YourUsername/Axons-Customer-Review-Category-prediction) | Devised binary classification model for text categorization using NLP based on customer reviews to avoid manual classification to save 2 days of manual work. Led a team to formulate Tableau dashboards and presented before and after insight results to client.|<img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />, <img src="./images/tableau.png" alt="Tableau logo" width="60" height="50" /> | 
-| [Data Mining Projects](https://github.com/YourUsername/DataMiningProjects) | |<img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
-| [Parking Lot Space Picker Using Computer Vision](https://github.com/YourUsername/ParkingLot-Space-Picker-Using-ComputerVision) | |<img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
+| [Axons Customer Review Category Prediction](https://github.com/sirrikademani/Topic-Modeling-Using-NLP) | Devised binary classification model for text categorization using NLP based on customer reviews to avoid manual classification to save 2 days of manual work. Led a team to formulate Tableau dashboards and presented before and after insight results to client.|<img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />, <img src="./images/tableau.png" alt="Tableau logo" width="60" height="50" /> | 
+| [Santander Customer Satisfaction Prediction](https://github.com/sirrikademani/Santander-Customer-Satisfaction-Prediction) | |<img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
+| [Parking Lot Space Picker Using Computer Vision](https://github.com/sirrikademani/ParkingLot-Space-Picker-Using-ComputerVision) | |<img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" /> | 
 
 ### Data Analysis and Visualization Projects <img src="./images/dataanalysis1.png" alt="Data Analysis Logo" width="40" height="40" />
 | Project | Description| Tools |
 | --- | --- | --- | 
-| [Tableau Dashboards](https://github.com/YourUsername/Tableau-Dashboards) | |<img src="./images/tableau.png" alt="Tableau" width="60" height="50" /> | 
-| [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/YourUsername/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) |  |<img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />,  <img src="./images/powerbi.png" alt="Power BI Logo" width="40" height="40" /> | 
+| [Tableau Dashboard Workbooks](https://github.com/sirrikademani/Tableau-Dashboards) | |<img src="./images/tableau.png" alt="Tableau" width="60" height="50" /> | 
+| [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/sirrikademani/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) |  |<img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />,  <img src="./images/powerbi.png" alt="Power BI Logo" width="40" height="40" /> | 
 </div>
 
 
