@@ -4,7 +4,13 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Siri+Kademani!;" />
 </h1>
+<div style="background-color: #f0f0f0; padding: 20px;">
 
+# Your README Title
+
+Your README content goes here.
+
+</div>
 
 <h3 align="center">A Data Enthusiast</h3>
 <div align="center">
