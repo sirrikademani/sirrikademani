@@ -92,7 +92,7 @@
 | Project | Description |
 | --- | --- | 
 | [Tableau Dashboards](https://github.com/YourUsername/Tableau-Dashboards) | <img src="./images/tableau.png" alt="Tableau" width="60" height="50" /> | 
-| [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/YourUsername/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) |  <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />,  <img src="./images/powerbi.png" alt="Power BI Logo" width="50" height="50" /> | 
+| [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/YourUsername/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) |  <img src="./images/jupyter.png" alt="Jupyter logo" width="40" height="40" />,  <img src="./images/powerbi.png" alt="Power BI Logo" width="40" height="40" /> | 
 </div>
 
 
