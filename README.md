@@ -8,6 +8,7 @@
 
 
 <h3 align="center" style="color: #2027C3;">A Data Enthusiast</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=300&size=16&duration=1000&pause=1000&color=BB4210&center=true&vCenter=true&repeat=false&random=false&width=435&separator=%3C&lines=I+love+the+quote%2C+%E2%80%9CData+are+just+summaries+of+thousands+of+stories%E2%80%94tell+a+few+of+those+stories+to+help+make+the+data+meaningful.%E2%80%9D+~+Dan+Heath%2C+bestselling+author+Dan+Heath's+quote+underscores+the+distinction+between+raw+data+and+insights%2C+emphasizing+that+data+in+its+unprocessed+state+seldom+holds+intrinsic+meaning;+true+significance+emerges+only+when+insights+are+derived." alt="Typing SVG" /></a>
 </br>
 
 </br>
