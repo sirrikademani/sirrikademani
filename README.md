@@ -12,9 +12,6 @@
 <img src="./images/datalake.png" alt="DataLake Quote Logo" width="370" height="270" />
 </div>
 
-<br/>
-![Exciting GIF](https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif)
-<br/>
 
 
 <div align="left">
