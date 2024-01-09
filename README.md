@@ -11,14 +11,15 @@
 </br>
 
 <div>
-  <!--![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)-->
-![](https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif)
+<img src= "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" />
+  <!--![](https://github.com/sirrikademani/sirrikademani/blob/main/images/8gBc.gif)-->
 </div>
+
+</br>
+
 <div align="center">
 <img src="./images/datalake.png" alt="DataLake Quote Logo" width="370" height="270" />
 </div>
-
-
 
 <div align="left">
  
