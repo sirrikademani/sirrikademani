@@ -96,10 +96,13 @@
 | [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/sirrikademani/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) | <img src="./images/insurance.png" alt="Project Image" style="max-width: 100%;" /><br/>Performing Portfolio Analysis due to winter storm damage for a client insurance company using descriptive and predictive analytics to understand the vulnerability due to various factors and plotting correlation to fetch insights. |<img src="./images/jupyter1.png" alt="Jupyter logo" style="max-width: 100%;" />,  <img src="./images/powerbi.png" alt="Power BI Logo" style="max-width: 100%;" /> | 
 </div>
 
+<br/>
+![/images/your_gif.gif](https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif))
+<br/>
 <div align="center">
     <h2 style="background-color: #f2f2f2;">📲 Social Media Profiles  💻</h2>
 </div>
-![Animated GIF](./images/your_gif.gif)
+
 | Coding Profile | Social Media |
 | --- | --- | 
 |Hacker Rank  <a href="https://www.hackerrank.com/profile/skademan" class="image" ><img src="images/hackerrank.png" align="right" alt="Hacker Rank" width="40" height="40" /></a> |LinkedIn  <a href="https://www.linkedin.com/in/sirimk/" class="image"><img src="images/linkedin.png" align="right" alt="LinkedIn" width="40" height="40" /></a> |
