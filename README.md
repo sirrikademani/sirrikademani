@@ -82,7 +82,7 @@
     <h2 style="background-color: #f2f2f2;">🚀 Project Portfolio 🚀 </h2>
 </div>
 
-### 🔭 Python/Data Science Projects 👩‍🔬
+### 🔭 Python/Data Science Projects 
 | Project | Description| 
 | --- | --- | 
 | [Marketing Data Analysis for Caravana](https://github.com/sirrikademani/Marketing-Data-Analysis-for-Caravana) |<img src= "./images/mktanalysis.png" align="center" alt="mkt analysis Image" style="max-width: 100%;" /><br/> Analyze Caravana's marketing data, specifically focusing on user click data and subsequent user actions leading up to sales. Each click event is associated with a specific marketing channel, and your task is to attribute user actions to these channels. The analysis helps us understand the relative performance for each channel.|
