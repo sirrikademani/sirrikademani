@@ -85,15 +85,6 @@
 ### 🔭 Python/Data Science Projects 
 | Project | Description| 
 | --- | --- | 
-| [Marketing Data Analysis for Caravana](https://github.com/sirrikademani/Marketing-Data-Analysis-for-Caravana) |<img src= "./images/mktanalysis.png" align="center" alt="mkt analysis Image" style="max-width: 100%;" /><br/> Analyze Caravana's marketing data, specifically focusing on user click data and subsequent user actions leading up to sales. Each click event is associated with a specific marketing channel, and your task is to attribute user actions to these channels. The analysis helps us understand the relative performance for each channel.|
-| [Topic Modeling Using NLP](https://github.com/sirrikademani/Topic-Modeling-Using-NLP) | <img src="./images/projectzomato.png" alt="Project Image" style="max-width: 100%;" /><br/>Propounded market-entry methods for expansion of Zomato in USA by conducting market analysis using data from competitors. Employed techniques like scraping Reddit data with PRAW library, data pre-processing, and LDA modeling. Identified topics such as delivery speed, customer service, and app features to devise launch strategies| 
-| [Axons Customer Review Category Prediction](https://github.com/sirrikademani/Axons-Customer-Review-Category-prediction) | <img src="./images/projectaxon.png" alt="Project Image" style="max-width: 100%;" /><br/>Devised binary classification model for text categorization using NLP based on customer reviews to avoid manual classification to save 2 days of manual work. Led a team to formulate Tableau dashboards and presented before and after insight results to client.|
-| [Santander Customer Satisfaction Prediction](https://github.com/sirrikademani/Santander-Customer-Satisfaction-Prediction) | <img src="./images/SANTANDER.PNG" alt="Project Image" style="max-width: 100%;" /><br/>Performed exploratory data analysis [EDA] and devised decision tree model to predict the satisfaction of customers by training high volume of 76K rows of training data. |
-| [Parking Lot Space Picker Using Computer Vision](https://github.com/sirrikademani/ParkingLot-Space-Picker-Using-ComputerVision) | <img src="./images/projectcarspacedetector.png" alt="Project Image" style="max-width: 100%;" /><br/>Developed a Parking Lot space detector and counter using Computer Vision| 
-
-V2
-| Project | Description| 
-| --- | --- | 
 | [Marketing Data Analysis for Caravana](https://github.com/sirrikademani/Marketing-Data-Analysis-for-Caravana) | <img src="./images/mktanalysis.png" height="120" alt="mkt analysis Image"/><br/> Analyze Caravana's marketing data, focusing on user click behavior and attribution to marketing channels. Understand the relative performance of each channel. |
 | [Topic Modeling Using NLP](https://github.com/sirrikademani/Topic-Modeling-Using-NLP) | <img src="./images/projectzomato.png" height="120" alt="Topic Modeling"/><br/> Proposed Zomato’s US entry strategy using Reddit data analysis. Used NLP techniques like LDA for topic modeling to uncover insights like delivery speed and customer service. |
 | [Axons Customer Review Category Prediction](https://github.com/sirrikademani/Axons-Customer-Review-Category-prediction) | <img src="./images/projectaxon.png" height="120" alt="Review Category Prediction"/><br/> Built binary classifier for review categorization using NLP. Automated manual sorting and presented data insights via Tableau dashboards. |
@@ -105,8 +96,8 @@ V2
 ### 🔭 Data Analysis and Visualization Projects 
 | Project | Description|
 | --- | --- |
-| [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/sirrikademani/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) | <img src="./images/insurance.png" alt="Project Image" style="max-width: 100%;" /><br/>Performing Portfolio Analysis due to winter storm damage for a client insurance company using descriptive and predictive analytics to understand the vulnerability due to various factors and plotting correlation to fetch insights. |
-| [Tableau Dashboard Workbooks](https://github.com/sirrikademani/Tableau-Dashboards) |<img src="./images/projectVWA.png" alt="Project Image" style="max-width: 100%;" /><br/>Presenting some of my Tableau work here, you can also visit my Tableau Public to see some of the dashboards built-> https://public.tableau.com/app/profile/sirri19 | 
+| [Winter Storm Damage Insurance Portfolio Analysis](https://github.com/sirrikademani/Winter-Storm-Damage-Insurance-portfolio-analysis-using-Power-BI) | <img src="./images/insurance.png" alt="Project Image" height="120"/><br/>Performing Portfolio Analysis due to winter storm damage for a client insurance company using descriptive and predictive analytics to understand the vulnerability due to various factors and plotting correlation to fetch insights. |
+| [Tableau Dashboard Workbooks](https://github.com/sirrikademani/Tableau-Dashboards) |<img src="./images/projectVWA.png" alt="Project Image" height="120" /><br/>Presenting some of my Tableau work here, you can also visit my Tableau Public to see some of the dashboards built-> https://public.tableau.com/app/profile/sirri19 | 
 
 </div>
 
