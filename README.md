@@ -91,6 +91,16 @@
 | [Santander Customer Satisfaction Prediction](https://github.com/sirrikademani/Santander-Customer-Satisfaction-Prediction) | <img src="./images/SANTANDER.PNG" alt="Project Image" style="max-width: 100%;" /><br/>Performed exploratory data analysis [EDA] and devised decision tree model to predict the satisfaction of customers by training high volume of 76K rows of training data. |
 | [Parking Lot Space Picker Using Computer Vision](https://github.com/sirrikademani/ParkingLot-Space-Picker-Using-ComputerVision) | <img src="./images/projectcarspacedetector.png" alt="Project Image" style="max-width: 100%;" /><br/>Developed a Parking Lot space detector and counter using Computer Vision| 
 
+V2
+| Project | Description| 
+| --- | --- | 
+| [Marketing Data Analysis for Caravana](https://github.com/sirrikademani/Marketing-Data-Analysis-for-Caravana) | <img src="./images/mktanalysis.png" height="120" alt="mkt analysis Image"/><br/> Analyze Caravana's marketing data, focusing on user click behavior and attribution to marketing channels. Understand the relative performance of each channel. |
+| [Topic Modeling Using NLP](https://github.com/sirrikademani/Topic-Modeling-Using-NLP) | <img src="./images/projectzomato.png" height="120" alt="Topic Modeling"/><br/> Proposed Zomato’s US entry strategy using Reddit data analysis. Used NLP techniques like LDA for topic modeling to uncover insights like delivery speed and customer service. |
+| [Axons Customer Review Category Prediction](https://github.com/sirrikademani/Axons-Customer-Review-Category-prediction) | <img src="./images/projectaxon.png" height="120" alt="Review Category Prediction"/><br/> Built binary classifier for review categorization using NLP. Automated manual sorting and presented data insights via Tableau dashboards. |
+| [Santander Customer Satisfaction Prediction](https://github.com/sirrikademani/Santander-Customer-Satisfaction-Prediction) | <img src="./images/SANTANDER.PNG" height="120" alt="Santander Project"/><br/> Used decision trees on 76K+ data points to predict customer satisfaction. Performed extensive exploratory data analysis. |
+| [Parking Lot Space Picker Using Computer Vision](https://github.com/sirrikademani/ParkingLot-Space-Picker-Using-ComputerVision) | <img src="./images/projectcarspacedetector.png" height="120" alt="Car Space Detector"/><br/> Developed a computer vision model to detect and count available parking spaces in real-time. |
+
+
 
 ### 🔭 Data Analysis and Visualization Projects 
 | Project | Description|
