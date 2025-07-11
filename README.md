@@ -110,7 +110,9 @@
 |Hacker Rank  <a href="https://www.hackerrank.com/profile/skademan" class="image" ><img src="images/hackerrank.png" align="right" alt="Hacker Rank" width="40" height="40" /></a> |LinkedIn  <a href="https://www.linkedin.com/in/sirimk/" class="image"><img src="images/linkedin.png" align="right" alt="LinkedIn" width="40" height="40" /></a> |
 |Tableau Public   <a href="https://public.tableau.com/app/profile/sirri19" class="image"><img src="images/tableau.png" align="right" align="right" alt="Tableau Public" width="50" height="40" /> </a> |Portfolio Website  <a href="https://sirrikademani.github.io/Siri_Kademani.github.io/" class="image"><img src="images/portfolio1.png" align="right" alt="Portfolio" width="40" height="40" /></a>|
 |Strata scratch  <a href="https://platform.stratascratch.com/user/siri.kademani19" class="image"><img src="images/strata.png" align="right" alt="Strata scratch" width="40" height="40" /></a> |Art Account  <a href="https://instagram.com/walkofart19?igshid=Y2I2MzMwZWM3ZA==" class="image"><img src="images/instagram.png" align="right" alt="Art Account" width="40" height="40" /></a> |  
+|Leet Code  <a href="https://leetcode.com/u/Siri19/" class="image"><img src="images/leetcode.png" align="right" alt="LeetCode" width="40" height="40" /></a> | |  
 |Code Wars  <a href="https://www.codewars.com/users/Sirrikademani" class="image"><img src="images/codewars.png" align="right" alt="Code Wars" width="40" height="40" /></a> | |  
+
 </div>
 
 </div>
