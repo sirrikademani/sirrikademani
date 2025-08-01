@@ -114,8 +114,6 @@
 |Data Lemur  <a href="https://datalemur.com/profile" class="image"><img src="images/datalemur.png" align="right" alt="Data Lemur" width="40" height="40" /></a> | |  
 
 </div>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="sirimk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sirimk?trk=profile-badge">Sirri Kademani</a></div>
               
 
 </div>
