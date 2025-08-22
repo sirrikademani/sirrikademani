@@ -46,7 +46,7 @@
 
 💬 Certified in **Tableau Desktop and Snowflake (SnowPro Core)**, with a proven track record of automating tasks and optimizing data processes.
 
-⚡ Fun fact: Apart from my analytical skills, I find joy in creating Mandala and Acrylic paintings. Also, I take pride in being a proficient vegetarian cook!
+⚡ Fun fact: I blend creativity with wellness in my life – from crafting Mandala and Acrylic art to maintaining an active running routine and mastering vegetarian cooking.
 
  </div>
 
