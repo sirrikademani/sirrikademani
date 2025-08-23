@@ -42,11 +42,13 @@
 
 🌱 Proficient in **SQL, Python, Alteryx, Snowflake, Alation, JIRA, Microsoft Office, Tableau, Qlik Sense, and Power BI.** I have a strong foundation in enterprise analytics, marketing analytics, and business process analytics.
 
-❤️ Passionate about crafting insightful dashboards that drive data-driven decision-making. 
+❤️ I’m passionate about open-source projects, sharing knowledge, and exploring new ML techniques.
 
 💬 Certified in **Tableau Desktop and Snowflake (SnowPro Core)**, with a proven track record of automating tasks and optimizing data processes.
 
 ⚡ Fun fact: I blend creativity with wellness in my life – from crafting Mandala and Acrylic art to maintaining an active running routine and mastering vegetarian cooking.
+
+🔍🗺️ Currently exploring interpretability in ML models and ethical AI
 
  </div>
 
