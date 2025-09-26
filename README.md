@@ -121,6 +121,7 @@
 <div align="center">
   <h2>🎖️ My Contributions 📝 </h2>
   <br>
+  <img alt="LC SQL 50" src="https://leetcode.com/medal/?showImg=0&id=7786827&isLevel=false" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sirrikademani/sirrikademani/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
