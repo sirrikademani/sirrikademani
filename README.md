@@ -55,6 +55,13 @@
 <div align="center">
   <h2>⚙️ Technologies & Tools ⚙️</h2>
   <br/>
+  <div align="center">
+  <h2 style="background-color: #f2f2f2; display: inline-flex; align-items: center; gap: 8px;">
+    <!--Leet Code SQL 50-->
+    <img src="images/LCSQL50.gif" alt="LCSQL50" width="90" height="90" />
+  </h2>
+</div>
+<br/>
   
   <img src="./images/tableau.png" alt="Tableau" width="90" height="70" />
   <img src="./images/snowflake.png" alt="snowflake Logo" width="70" height="70" />
@@ -116,15 +123,6 @@
 |Data Lemur  <a href="https://datalemur.com/profile" class="image"><img src="images/datalemur.png" align="right" alt="Data Lemur" width="40" height="40" /></a> |Tableau Public   <a href="https://public.tableau.com/app/profile/sirri19" class="image"><img src="images/tableau.png" align="right" align="right" alt="Tableau Public" width="50" height="40" /> </a>|  
 |Code Wars  <a href="https://www.codewars.com/users/Sirrikademani" class="image"><img src="images/codewars.png" align="right" alt="Code Wars" width="40" height="40" /></a> |  | 
 </div>
-
-
-<div align="center">
-  <h2 style="background-color: #f2f2f2; display: inline-flex; align-items: center; gap: 8px;">
-    <!--Leet Code SQL 50-->
-    <img src="images/LCSQL50.gif" alt="LCSQL50" width="90" height="90" />
-  </h2>
-</div>
-<br/>
 
 </div>
 <div align="center">
