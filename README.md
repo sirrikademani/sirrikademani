@@ -81,8 +81,10 @@
 <hr/>
 
 <div align="center">
-<h2 style="background-color: #f2f2f2;"><img src="images/LCSQL50.gif" align="right" alt="LCSQL50" width="40" height="40" />    
-    </h2>
+  <h2 style="background-color: #f2f2f2; display: inline-flex; align-items: center; gap: 8px;">
+    Your Title
+    <img src="images/LCSQL50.gif" alt="LCSQL50" width="90" height="90" />
+  </h2>
 </div>
 
 <div align="center">
