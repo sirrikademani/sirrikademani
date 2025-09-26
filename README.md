@@ -120,7 +120,7 @@
 
 <div align="center">
   <h2 style="background-color: #f2f2f2; display: inline-flex; align-items: center; gap: 8px;">
-    #Leet Code SQL 50
+    <!--Leet Code SQL 50-->
     <img src="images/LCSQL50.gif" alt="LCSQL50" width="90" height="90" />
   </h2>
 </div>
