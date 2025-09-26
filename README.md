@@ -55,13 +55,6 @@
 <div align="center">
   <h2>⚙️ Technologies & Tools ⚙️</h2>
   <br/>
-  <div align="center">
-  <h2 style="background-color: #f2f2f2; display: inline-flex; align-items: center; gap: 8px;">
-    <!--Leet Code SQL 50-->
-    <img src="images/LCSQL50.gif" alt="LCSQL50" width="90" height="90" />
-  </h2>
-</div>
-<br/>
   
   <img src="./images/tableau.png" alt="Tableau" width="90" height="70" />
   <img src="./images/snowflake.png" alt="snowflake Logo" width="70" height="70" />
@@ -83,6 +76,13 @@
   <br/>
 </div>
 
+<br/>
+  <div align="center">
+  <h2 style="background-color: #f2f2f2; display: inline-flex; align-items: center; gap: 8px;">
+    <!--Leet Code SQL 50-->
+    <img src="images/LCSQL50.gif" alt="LCSQL50" width="90" height="90" />
+  </h2>
+</div>
 <br/>
 
 <hr/>
