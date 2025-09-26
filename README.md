@@ -127,7 +127,7 @@
 </div>
 
 <div align="center">
-<img src="images/LCSQL50.png" align="right" alt="LCSQL50" width="40" height="40" />    
+<img src="images/LCSQL50.gif" align="right" alt="LCSQL50" width="40" height="40" />    
 </div>
 
 <hr/>
