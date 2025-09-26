@@ -81,6 +81,11 @@
 <hr/>
 
 <div align="center">
+<h2 style="background-color: #f2f2f2;"><img src="images/LCSQL50.gif" align="right" alt="LCSQL50" width="40" height="40" />    
+    </h2>
+</div>
+
+<div align="center">
     <h2 style="background-color: #f2f2f2;">🚀 Project Portfolio 🚀 </h2>
 </div>
 
@@ -124,10 +129,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sirrikademani/sirrikademani/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
-</div>
-
-<div align="center">
-<img src="images/LCSQL50.gif" align="right" alt="LCSQL50" width="40" height="40" />    
 </div>
 
 <hr/>
