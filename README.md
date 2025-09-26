@@ -120,11 +120,14 @@
 </div>
 <div align="center">
   <h2>🎖️ My Contributions 📝 </h2>
-  <br>
-  <img alt="LC SQL 50" src="https://leetcode.com/medal/?showImg=0&id=7786827&isLevel=false" />
+  <br> 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sirrikademani/sirrikademani/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
+</div>
+
+<div align="center">
+<img src="images/LCSQL50.png" align="right" alt="LCSQL50" width="40" height="40" />    
 </div>
 
 <hr/>
