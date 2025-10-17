@@ -9,7 +9,7 @@
 <div align=center>
 <h4 align="center" >“Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.”~ Dan Heath.</h4>
 
-<img src= "https://github.com/sirrikademani/sirrikademani/blob/main/images/FAANGCoolDataScientistSiri.png" align="center" alt="Project Image" height="400" width="400;" /><br/>
+<img src= "https://github.com/sirrikademani/sirrikademani/blob/main/images/Gemini_Generated_Image_r88n76r88n76r88n.png" align="center" alt="Project Image" height="400" width="400;" /><br/>
 </br>
 </div>
 </br>
