@@ -123,29 +123,25 @@ I'm a seasoned data professional passionate about transforming raw data into com
 ## 📊 GitHub Analytics
 
 <div align="center">
-    <h3>Contribution Snake 🐍</h3>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sirrikademani/sirrikademani/output/github-contribution-grid-snake.svg" />
-    
-    <h3 align="center">📈 Statistics</h3>
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img 
-    src="https://streak-stats.demolab.com/?user=sirrikademani&count_private=true&theme=react&border_radius=10" 
-    alt="GitHub Streak" 
-    style="width: 48%; min-width: 300px;" 
+    src="https://streak-stats.demolab.com/?user=sirrikademani&theme=react&border_radius=10" 
+    style="width: 48%;" 
   />
-
+  
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sirrikademani&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
-    alt="GitHub Stats" 
-    style="width: 48%; min-width: 300px;" 
+    src="https://github-readme-stats.vercel.app/api?username=sirrikademani&show_icons=true&theme=react&border_radius=10" 
+    style="width: 48%;" 
   />
 </div>
-    
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirrikademani&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-</div>
 
----
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirrikademani&layout=compact&theme=react" 
+    style="width: 50%;" 
+  />
+</div>
 
 <div align="center">
   <img src="./images/datalake.png" alt="Data Quote" width="300" height="220" />
