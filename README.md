@@ -144,7 +144,7 @@ I'm a seasoned data professional passionate about transforming raw data into com
 </div>
 
 <div align="center">
-  <img src="./images/datalake.png" alt="Data Quote" width="300" height="220" />
+  <img src="./images/datalake.png" alt="Data Quote" width="200" height="200" />
   
   <br/><br/>
   
