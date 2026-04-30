@@ -126,7 +126,7 @@ I'm a seasoned data professional passionate about transforming raw data into com
     <h3>Contribution Snake 🐍</h3>
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sirrikademani/sirrikademani/output/github-contribution-grid-snake.svg" />
     
-    <h3>📈 Statistics</h3>
+    <h3 align="center">📈 Statistics</h3>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img 
