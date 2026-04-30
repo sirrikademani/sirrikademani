@@ -9,7 +9,6 @@
 <div align="center">
     <h4>"Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful." ~ Dan Heath</h4>
     
-    <img src="https://github.com/sirrikademani/images/SIRI_MLENGINEERFAANG.png" alt="Profile Image" height="300" width="300" />
 </div>
 
 ---
@@ -33,25 +32,29 @@ I'm a seasoned data professional passionate about transforming raw data into com
 ## 🛠️ Tech Stack
 
 <div align="center">
-    <img src="./images/python.png" alt="Python" width="70" height="70" title="Python" />
-    <img src="./images/sqlserver.png" alt="SQL Server" width="70" height="70" title="SQL Server" />
-    <img src="./images/mysql.png" alt="MySQL" width="70" height="70" title="MySQL" />
-    <img src="./images/tableau.png" alt="Tableau" width="70" height="70" title="Tableau" />
-    <img src="./images/powerbi.png" alt="Power BI" width="70" height="70" title="Power BI" />
-    <img src="./images/qliksense.png" alt="Qlik Sense" width="70" height="70" title="Qlik Sense" />
-    <img src="./images/snowflake.png" alt="Snowflake" width="70" height="70" title="Snowflake" />
-    <img src="./images/alteryx.png" alt="Alteryx" width="70" height="70" title="Alteryx" />
-    
-    <br/>
-    
-    <img src="./images/pandas.png" alt="Pandas" width="70" height="70" title="Pandas" />
-    <img src="./images/numpy.png" alt="NumPy" width="70" height="70" title="NumPy" />
-    <img src="./images/sklearn.png" alt="Scikit-Learn" width="70" height="70" title="Scikit-Learn" />
-    <img src="./images/matplot.png" alt="Matplotlib" width="70" height="70" title="Matplotlib" />
-    <img src="./images/jupyter.png" alt="Jupyter" width="70" height="70" title="Jupyter" />
-    <img src="./images/excel.png" alt="Excel" width="70" height="70" title="Excel" />
-    <img src="./images/gcp.png" alt="Google Cloud" width="70" height="70" title="Google Cloud" />
-    <img src="./images/jira.png" alt="Jira" width="70" height="70" title="Jira" />
+
+  <p>
+    <img src="./images/python.png" width="70" title="Python" />
+    <img src="./images/sqlserver.png" width="70" title="SQL Server" />
+    <img src="./images/mysql.png" width="70" title="MySQL" />
+    <img src="./images/tableau.png" width="70" title="Tableau" />
+    <img src="./images/powerbi.png" width="70" title="Power BI" />
+    <img src="./images/qliksense.png" width="70" title="Qlik Sense" />
+    <img src="./images/snowflake.png" width="70" title="Snowflake" />
+    <img src="./images/alteryx.png" width="70" title="Alteryx" />
+  </p>
+
+  <p>
+    <img src="./images/pandas.png" width="70" title="Pandas" />
+    <img src="./images/numpy.png" width="70" title="NumPy" />
+    <img src="./images/sklearn.png" width="70" title="Scikit-Learn" />
+    <img src="./images/matplot.png" width="70" title="Matplotlib" />
+    <img src="./images/jupyter.png" width="70" title="Jupyter" />
+    <img src="./images/excel.png" width="70" title="Excel" />
+    <img src="./images/gcp.png" width="70" title="Google Cloud" />
+    <img src="./images/jira.png" width="70" title="Jira" />
+  </p>
+
 </div>
 
 ---
@@ -124,10 +127,20 @@ I'm a seasoned data professional passionate about transforming raw data into com
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sirrikademani/sirrikademani/output/github-contribution-grid-snake.svg" />
     
     <h3>📈 Statistics</h3>
-    <img width="48%" src="https://streak-stats.demolab.com/?user=sirrikademani&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sirrikademani&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-    
-    <br/>
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img 
+    src="https://streak-stats.demolab.com/?user=sirrikademani&count_private=true&theme=react&border_radius=10" 
+    alt="GitHub Streak" 
+    style="width: 48%; min-width: 300px;" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sirrikademani&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+    alt="GitHub Stats" 
+    style="width: 48%; min-width: 300px;" 
+  />
+</div>
     
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirrikademani&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
@@ -135,9 +148,9 @@ I'm a seasoned data professional passionate about transforming raw data into com
 ---
 
 <div align="center">
-    <img src="./images/datalake.png" alt="Data Quote" width="300" height="220" />
-    
-    <br/><br/>
-    
-    **⭐ If you find my work interesting, feel free to star repos and reach out!**
+  <img src="./images/datalake.png" alt="Data Quote" width="300" height="220" />
+  
+  <br/><br/>
+  
+  <b>⭐ If you find my work interesting, feel free to star repos and reach out!</b>
 </div>
