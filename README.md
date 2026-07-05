@@ -115,7 +115,8 @@ I'm a seasoned data professional passionate about transforming raw data into com
 | [🏆 HackerRank](https://www.hackerrank.com/profile/skademan) | [💼 LinkedIn](https://www.linkedin.com/in/sirimk/) |
 | [🟡 LeetCode](https://leetcode.com/u/Siri19/) | [📷 Instagram Art](https://instagram.com/) |
 | [⚔️ CodeWars](https://www.codewars.com/users/Sirrikademani) | [📊 Tableau Public](https://public.tableau.com/app/profile/sirri19/vizzes) |
-| [📊 Strata Scratch](https://platform.stratascratch.com/user/siri.kademani19) | |
+| [📊 Strata Scratch 1](https://platform.stratascratch.com/user/siri.kademani19) | [📊 Kaggle](https://www.kaggle.com/sirikademani19) |
+| [📊 Strata Scratch 2](https://platform.stratascratch.com/user/Sirrikademani) | |
 | [💾 DataLemur](https://datalemur.com/profile) | |
 
 ---
